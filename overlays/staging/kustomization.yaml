@@ -4,4 +4,4 @@ resources:
   - ../../base
 images:
   - name: core-inventory-system-frontend-image
-    newName: ghcr.io/eed-web-application/core-inventory-system-frontend:sha-d4ff18d
+    newName: ghcr.io/eed-web-application/core-inventory-system-frontend:sha-a6ea05e
