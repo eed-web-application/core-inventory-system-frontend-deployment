@@ -24,6 +24,6 @@ spec:
             path: /cis(.*)
             backend:
               service:
-                name: core-suite-frontend-service
+                name: core-inventory-system-frontend-service
                 port:
                   number: 80
